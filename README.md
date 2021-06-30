@@ -1,6 +1,6 @@
 <h1> Hi, I'm Tarun Ravi! 👋 </h1>
 
-*High School Student at [Academies Of Loudoun](https://www.lcps.org/acl)* <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+*Student at [Georgia Tech](https://www.gatech.edu/)* <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 *CS Intern at [ManTech](https://www.mantech.com/mantech-welcomes-its-inaugural-class-dfend-summer-interns)* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -8,17 +8,57 @@
 [![GitHub MyWorldRules](https://img.shields.io/github/followers/MyWorldRules?label=follow&style=social)](https://github.com/MyWorldRules)
 
 ## Languages and Technologies 🛠️
-| [<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="Python 3" width="38">](https://www.python.org/)  | [<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="38">](https://www.javascript.com/)  | [<img src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt="TensorFlow" width="38">](https://www.tensorflow.org/)  |  [<img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="38">](https://numpy.org/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="38">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="38">](https://www.gnu.org/software/bash/)  |
-|---|---|---|---|---|---|
+Python: **Selenium** (Web Scraping), **TensorFlow/Scikit-Learn** (Machine Learning), **NumPy/Pandas** (Data Science), **Flask** (Backend Web development)
 
-## Projects 🚧
+JavaScript: **React** (Front-end Web/Mobile development), **D3.js** (Web data visualization)
 
-### [⚡ Generate Electricity By Walking](https://github.com/MyWorldRules/GenerateElectricityByWalking)
+Cloud: **AWS Solution Architect Certified, Azure Certified**
 
-I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.
+Terminal: **Bash, CMD**
 
-### [❎ Tic-Tac-Toe AI](https://github.com/MyWorldRules/Tic-Tac-Toe-AI)
-I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using Q-Learning. 
+___
+### Recent Projects 🚧
+[Web Development](/#WebDev) | [Machine Learning](/#ML) | [Engineering/Other](/#Engineering)
 
-### [🃏 BlackJack AI](https://github.com/MyWorldRules/BlackjackAI)
-I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using the Monte-Carlo Algorithm. 
+<a name="WebDev"></a>
+## 💼 Website and App Development
+
+### ♟️ Chess Tracker [(Website Demo)](https://tarunravi.tech/chessTracker/#/)
+ As an avid chess player, I wanted to create a website/app to track the game statistics of each of my opponents. I use **React** for the front-end of the website, then **Firebase** for the backend. It uses **Google user authentication** and **private user generated data**. [Link to source code](https://github.com/tarunravi/chessTracker)
+
+### 📚 ManTech Hilbert Curve Visualization [(Website Demo)](https://tarunravi.tech/hilbertCurve/)
+The Hilbert curve is an **advanced machine learning algorithm** that can condense an n-dimensional set of data into a simple 1 dimensional vector. To learn more about the math behind the hilbert curve, I created an Hilbert Curve Visualization using HTML and JavaScript. Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
+
+<a name="ML"></a>
+## Machine Learning
+
+### ❎ Tic-Tac-Toe AI [(Website Demo)](https://tarunravi.tech/chessTracker/#/)
+[Video Demo.](https://www.youtube.com/watch?v=OHON6-JC-Xs) I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using **Q-Learning**. [Link to source code](https://github.com/tarunravi/Tic-Tac-Toe-AI)
+
+### 🤖 ManTech Machine Learning [(Website Demo)](https://tarunravi.tech/ManTechPredictingAppRating/)
+Created a **Machine Learning model** that predicts app rating based on ManTech app metadata. 
+
+Then used **D3.js** to create an interactive heatmap on the app metadata. Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
+
+### 🃏 BlackJack AI [(Video Demo)](https://www.youtube.com/watch?v=VSLcoP5vAMM)
+I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using the **Monte-Carlo Algorithm.** [Link to source code](https://github.com/MyWorldRules/BlackjackAI)
+
+
+<a name="Engineering"></a>
+## Engineering/Others
+
+### ⚡ Generate Electricity By Walking [(Video Demo)](https://youtu.be/c4PtBs9bxEM)
+
+I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity. [Link to source code](https://tarunravi.tech/GenerateElectricityByWalking/)
+
+### 👨‍💻 ManTech Scanner Application
+I Created an Application that interfaces with existing ManTech technology, and enables employees to scan in equipment and track the location and scan date of every existing equipment. I used **Python and PyGame** to develop this application.  Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
+
+### ⚡ Robot that attends my Online Classes [(Video Demo)](https://www.youtube.com/watch?v=ZZ9PRr0rcuQ)
+ After getting permission from my teachers, for the last week of school I created a bot using **Python and Selenium** (Web Scraping framework) to automatically open my classes based on the date/time. In addition the bot listens to what my teacher says, and can respond if the teacher calls my name.
+
+### ✌ Robot vs Finger on the App 2 Challenge [(Video Demo)](https://www.youtube.com/watch?v=2VJTTI9BsIM)
+I created a robot to automate Finger on the App 2, a popular phone game. I used my computer to control my phone, then I used **Python and Pyautogui** to move the cursor to play the game. 
+
+### 😂 Annoying People With Pi [(Video Demo)](https://www.youtube.com/watch?v=LEBqrb-T1bs)
+For Pi Day 2021, I created a robot that texts the digits of Pi to all my friends, one digit at a time. I used **Python and Pyautogui** to control the keyboard, then instead of pre-computing the digits of Pi, I wrote out the power series expansion function to calculate the digits live.
