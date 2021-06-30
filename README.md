@@ -18,7 +18,7 @@ Terminal: **Bash, CMD**
 
 ___
 ### Recent Projects 🚧
-[Web Development](/#WebDev) | [Machine Learning](/#ML) | [Engineering/Other](/#Engineering)
+Web Development | Machine Learning | Engineering/Other
 
 <a name="WebDev"></a>
 ## 💼 Website and App Development
