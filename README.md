@@ -1,8 +1,10 @@
 <h1> Hi, I'm Tarun Ravi! 👋 </h1>
 
-*CS Student at [Georgia Tech](https://www.gatech.edu/)* <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+*SWE at [Anduril](https://www.anduril.com/)* <img src="https://avatars.githubusercontent.com/u/47237323?s=280" width="30"> 
 
-*CS Intern at [Amazon](https://aws.amazon.com/)* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+*CS Grad From [Georgia Tech](https://www.gatech.edu/)* <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+
+*Former SWE Intern at [Amazon](https://aws.amazon.com/)* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![Linkedin: tarun-ravi](https://img.shields.io/badge/-Tarun%20Ravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-ravi/)](https://www.linkedin.com/in/tarun-ravi/)
 [![GitHub MyWorldRules](https://img.shields.io/github/followers/TarunRavi?label=follow&style=social)](https://github.com/TarunRavi)
